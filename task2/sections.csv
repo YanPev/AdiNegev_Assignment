@@ -1,0 +1,2 @@
+section id,recording id,recording name,wearer id,wearer name,section start time [ns],section end time [ns],start event name,end event name
+f42a875f-092b-427d-b12d-52c489379fdf,9fd1a384-8877-4a65-9277-6874f0eb9343,2025-06-08_14:12:30,c91a07b6-51cb-4703-b7eb-0373c9a14ed9,nl100,1749381150346000000,1749381529072000000,recording.begin,recording.end
